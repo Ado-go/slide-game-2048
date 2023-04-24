@@ -10,3 +10,4 @@ UP - up arrow
 LEFT - left arrow
 DOWN - down arrow
 RIGHT - righ arrow
+R - restart whole game
